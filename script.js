@@ -1,0 +1,1 @@
+alrect("hi")
